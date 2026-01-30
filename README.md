@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @matt-okmen
-- 👀 I’m interested in MICROSOFT D365 CRM
-- 🌱 I’m currently learning D365
+- 👋 Hi, I’m @mertcan-okmen
+- 👀 I’m interested in Data Science, D365 CRM
+- 🌱 I’m currently learning London School of Economics Data Analyst Bootcamp (Online)
 - 💞️ I’m looking to collaborate on ANALYSTS
 - 📫 How to reach me DM
 - 😄 Pronouns: MR
